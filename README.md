@@ -1,4 +1,5 @@
-# bio_232
+# Bio 232
+
 code/analysis for bio 232 @ Northwestern
 
 `lps_bargraph.R` contains commented code that can be used to make a bar graph from the day 2 plate reader data. This can be downloaded (by clicking on them then clicking the download icon) and added into your own project.

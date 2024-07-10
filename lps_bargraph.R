@@ -6,7 +6,7 @@
 
 # load packages that we will need
 library(readxl) # used for reading xlsx files (https://readxl.tidyverse.org/)
-#library(dplyr) # this is a key package for data manipulation (https://dplyr.tidyverse.org/)
+library(dplyr) # this is a key package for data manipulation (https://dplyr.tidyverse.org/)
 library(tidyr) # this is used for making our data "tidy" (https://tidyr.tidyverse.org/)
 library(ggplot2) # this is used for making nice plots (https://ggplot2.tidyverse.org/)
 
