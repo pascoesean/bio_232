@@ -4,6 +4,9 @@
 ##########################################################################################
 ##########################################################################################
 
+# any text following a hashtag is "commented out"-- it won't be read as code by the interpreter,
+# so it's good to use to add notes for others (or yourself later on)
+
 # load packages that we will need
 library(readxl) # used for reading xlsx files (https://readxl.tidyverse.org/)
 library(dplyr) # this is a key package for data manipulation (https://dplyr.tidyverse.org/)
