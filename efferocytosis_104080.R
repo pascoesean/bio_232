@@ -160,7 +160,7 @@ ggplot(data = eff_data_pivoted, # layer 1: data
 vals <- c("Dex 0.1 uM" = "#a7c957", 
           "Dex 0.5 uM" = "#6a994e",
           "Dex 2 uM" = "#386641", 
-          "PBS" = "#bc4749")
+          "PBS" = "#B48018")
 
 lims <- c("Dex 0.1 uM", 
           "Dex 0.5 uM",
